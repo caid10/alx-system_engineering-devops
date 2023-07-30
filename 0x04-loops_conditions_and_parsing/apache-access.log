@@ -2954,7 +2954,10 @@
 82.145.220.154 - - [10/Feb/2016:03:56:36 -0800] "HEAD /wp-content/uploads/2015/03/Photo-Bio-2013-300x300.jpg HTTP/1.1" 200 285 "-" "Opera/9.80 (Android; Opera Mini/7.5.35721/37.7832; U; fr) Presto/2.12.423 Version/12.16"
 8.29.198.25 - - [10/Feb/2016:03:56:55 -0800] "GET /feed/ HTTP/1.1" 200 20950 "-" "Feedly/1.0 (+http://www.feedly.com/fetcher.html; like FeedFetcher-Google)"
 72.167.183.56 - - [10/Feb/2016:04:00:58 -0800] "POST /xmlrpc.php HTTP/1.1" 200 793 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:23.0) Gecko/20100101 Firefox/23.0"
+<<<<<<< HEAD
 A
+=======
+>>>>>>> 061274c050860729563d86b60e3b4d45b5da1adc
 2.1.201.36 - - [10/Feb/2016:04:06:32 -0800] "GET /rss HTTP/1.1" 304 163 "http://techmeup.co/rss" "FreshRSS/1.0.0 (Linux; http://freshrss.org) SimplePie/1.4-dev-FreshRSS"
 130.0.236.153 - - [10/Feb/2016:04:08:58 -0800] "POST /xmlrpc.php HTTP/1.1" 200 456 "-" "Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14"
 92.222.20.166 - - [10/Feb/2016:04:15:19 -0800] "GET /rss HTTP/1.1" 304 163 "-" "Tiny Tiny RSS/16.1 (c352248) (http://tt-rss.org/)"
@@ -3458,4 +3461,7 @@ A
 198.58.99.82 - - [10/Feb/2016:19:37:15 -0800] "GET /rss HTTP/1.1" 304 219 "-" "Superfeedr bot/2.0 http://superfeedr.com - Make your feeds realtime: get in touch - feed-id:138292308"
 50.116.30.23 - - [10/Feb/2016:19:45:10 -0800] "GET /rss HTTP/1.1" 304 219 "-" "Superfeedr bot/2.0 http://superfeedr.com - Make your feeds realtime: get in touch - feed-id:138292308"
 209.133.111.211 - - [10/Feb/2016:19:53:16 -0800] "GET /robots.txt HTTP/1.1" 200 367 "-" "python-requests/2.2.1 CPython/2.7.3 Linux/3.2.0-56-generic"
+<<<<<<< HEAD
 
+=======
+>>>>>>> 061274c050860729563d86b60e3b4d45b5da1adc
